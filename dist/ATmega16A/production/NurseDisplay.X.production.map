@@ -1,0 +1,1272 @@
+Archive member included to satisfy reference by file (symbol)
+
+lib\mega2.X.a(_7seg.o)        build/ATmega16A/production/src/configuration.o (Create_7seg_Display)
+lib\mega2.X.a(csma.o)         build/ATmega16A/production/src/configuration.o (csmaloadConfig)
+lib\mega2.X.a(eeprom.o)       build/ATmega16A/production/src/configuration.o (eepromWriteBuf)
+lib\mega2.X.a(system.o)       build/ATmega16A/production/src/dataTiming.o (sysSetPeriodMS)
+lib\mega2.X.a(usart.o)        lib\mega2.X.a(csma.o) (usart0PutByte)
+lib\mega2.X.a(utility.o)      lib\mega2.X.a(csma.o) (map)
+lib\mega2.X.a(mega.o)         C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o (main)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+                              lib\mega2.X.a(utility.o) (__udivmodqi4)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+                              lib\mega2.X.a(utility.o) (__divmodhi4)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+                              lib\mega2.X.a(csma.o) (__udivmodsi4)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o (exit)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+                              build/ATmega16A/production/src/configuration.o (__tablejump2__)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                              build/ATmega16A/production/src/configuration.o (__do_copy_data)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                              build/ATmega16A/production/src/userSystem.o (__do_clear_bss)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                              lib\mega2.X.a(csma.o) (__umulhisi3)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+                              lib\mega2.X.a(system.o) (__muluhisi3)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+                              lib\mega2.X.a(utility.o) (__mulshisi3)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+                              f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              lib\mega2.X.a(_7seg.o) (malloc)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+                              lib\mega2.X.a(csma.o) (random)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+                              lib\mega2.X.a(utility.o) (memcpy_P)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+                              lib\mega2.X.a(utility.o) (__strlen_P)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+                              f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o) (__divmodsi4)
+f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+                              f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+gpu8data            0x2               lib\mega2.X.a(eeprom.o)
+display_main        0x2               build/ATmega16A/production/src/configuration.o
+gu16address         0x2               lib\mega2.X.a(eeprom.o)
+__brkval            0x2               f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+gu8RW               0x1               lib\mega2.X.a(eeprom.o)
+display_extention   0x2               build/ATmega16A/production/src/configuration.o
+gu8size             0x1               lib\mega2.X.a(eeprom.o)
+__flp               0x2               f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+gstEepromTimeOut    0x4               lib\mega2.X.a(eeprom.o)
+gu8DataIndex        0x1               lib\mega2.X.a(eeprom.o)
+gstboardInfo        0xa               build/ATmega16A/production/src/configuration.o
+gu8State            0x1               lib\mega2.X.a(eeprom.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+ .bss           0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+ .text          0x0000000000000000        0x0 build/ATmega16A/production/src/app.o
+ .data          0x0000000000000000        0x0 build/ATmega16A/production/src/app.o
+ .bss           0x0000000000000000        0x0 build/ATmega16A/production/src/app.o
+ .text          0x0000000000000000        0x0 build/ATmega16A/production/src/userSystem.o
+ .data          0x0000000000000000        0x0 build/ATmega16A/production/src/userSystem.o
+ .bss           0x0000000000000000        0x0 build/ATmega16A/production/src/userSystem.o
+ .text.getPeriodIsDone
+                0x0000000000000000       0x10 build/ATmega16A/production/src/userSystem.o
+ .text          0x0000000000000000        0x0 build/ATmega16A/production/src/configuration.o
+ .data          0x0000000000000000        0x0 build/ATmega16A/production/src/configuration.o
+ .bss           0x0000000000000000        0x0 build/ATmega16A/production/src/configuration.o
+ .text.getDangdongState
+                0x0000000000000000        0xa build/ATmega16A/production/src/configuration.o
+ .avr.prop      0x0000000000000000       0x16 build/ATmega16A/production/src/configuration.o
+ .text          0x0000000000000000        0x0 build/ATmega16A/production/src/network.o
+ .data          0x0000000000000000        0x0 build/ATmega16A/production/src/network.o
+ .bss           0x0000000000000000        0x0 build/ATmega16A/production/src/network.o
+ .text          0x0000000000000000        0x0 build/ATmega16A/production/src/dataTiming.o
+ .data          0x0000000000000000        0x0 build/ATmega16A/production/src/dataTiming.o
+ .bss           0x0000000000000000        0x0 build/ATmega16A/production/src/dataTiming.o
+ .text          0x0000000000000000        0x0 build/ATmega16A/production/src/Requests.o
+ .data          0x0000000000000000        0x0 build/ATmega16A/production/src/Requests.o
+ .bss           0x0000000000000000        0x0 build/ATmega16A/production/src/Requests.o
+ .text.updateDisplayRequest
+                0x0000000000000000       0x4c build/ATmega16A/production/src/Requests.o
+ .text.PowerOnRequest
+                0x0000000000000000       0x40 build/ATmega16A/production/src/Requests.o
+ .text.getCurrentRequest
+                0x0000000000000000        0xa build/ATmega16A/production/src/Requests.o
+ .text          0x0000000000000000        0x0 build/ATmega16A/production/src/PowerOn.o
+ .data          0x0000000000000000        0x0 build/ATmega16A/production/src/PowerOn.o
+ .bss           0x0000000000000000        0x0 build/ATmega16A/production/src/PowerOn.o
+ .text          0x0000000000000000        0x0 lib\mega2.X.a(_7seg.o)
+ .data          0x0000000000000000        0x0 lib\mega2.X.a(_7seg.o)
+ .bss           0x0000000000000000        0x0 lib\mega2.X.a(_7seg.o)
+ .text.Remove_7seg_Display
+                0x0000000000000000       0xa6 lib\mega2.X.a(_7seg.o)
+ .text._7seg_display_count
+                0x0000000000000000       0x9c lib\mega2.X.a(_7seg.o)
+ .text.ssd_test_digit_app
+                0x0000000000000000       0x96 lib\mega2.X.a(_7seg.o)
+ .bss.currnt_digit_up.3041
+                0x0000000000000000        0x1 lib\mega2.X.a(_7seg.o)
+ .bss.max_digit_count.3040
+                0x0000000000000000        0x1 lib\mega2.X.a(_7seg.o)
+ .bss.gstdispaly_time.3043
+                0x0000000000000000        0x4 lib\mega2.X.a(_7seg.o)
+ .data.state.3042
+                0x0000000000000000        0x1 lib\mega2.X.a(_7seg.o)
+ .bss.gsTime.3033
+                0x0000000000000000        0x4 lib\mega2.X.a(_7seg.o)
+ .bss.counter.3032
+                0x0000000000000000        0x2 lib\mega2.X.a(_7seg.o)
+ .bss.state.3034
+                0x0000000000000000        0x1 lib\mega2.X.a(_7seg.o)
+ .text          0x0000000000000000        0x0 lib\mega2.X.a(csma.o)
+ .data          0x0000000000000000        0x0 lib\mega2.X.a(csma.o)
+ .bss           0x0000000000000000        0x0 lib\mega2.X.a(csma.o)
+ .text.sendBlockFrame
+                0x0000000000000000       0x20 lib\mega2.X.a(csma.o)
+ .text.csmaInitStationAddress
+                0x0000000000000000        0x6 lib\mega2.X.a(csma.o)
+ .text.clearCurrentDataFrame
+                0x0000000000000000       0x1c lib\mega2.X.a(csma.o)
+ .text          0x0000000000000000        0x0 lib\mega2.X.a(eeprom.o)
+ .data          0x0000000000000000        0x0 lib\mega2.X.a(eeprom.o)
+ .bss           0x0000000000000000        0x0 lib\mega2.X.a(eeprom.o)
+ .text.eepromRequestByte
+                0x0000000000000000       0x40 lib\mega2.X.a(eeprom.o)
+ .text          0x0000000000000000        0x0 lib\mega2.X.a(system.o)
+ .data          0x0000000000000000        0x0 lib\mega2.X.a(system.o)
+ .bss           0x0000000000000000        0x0 lib\mega2.X.a(system.o)
+ .text.stopHwTimer0
+                0x0000000000000000        0xa lib\mega2.X.a(system.o)
+ .text.systemSleep
+                0x0000000000000000       0x18 lib\mega2.X.a(system.o)
+ .text.sysUpdateNow
+                0x0000000000000000       0x2a lib\mega2.X.a(system.o)
+ .text.systemSecondEvent
+                0x0000000000000000       0x14 lib\mega2.X.a(system.o)
+ .text.ClearsystemSecondEvent
+                0x0000000000000000        0x8 lib\mega2.X.a(system.o)
+ .text.sysTimerInitMS
+                0x0000000000000000       0x9c lib\mega2.X.a(system.o)
+ .text.sysTimerResetMS
+                0x0000000000000000       0x44 lib\mega2.X.a(system.o)
+ .text.sysTimerCheckMs
+                0x0000000000000000       0x8c lib\mega2.X.a(system.o)
+ .text.systemMicros
+                0x0000000000000000       0x4c lib\mega2.X.a(system.o)
+ .text.sysSetPeriodUs
+                0x0000000000000000       0x34 lib\mega2.X.a(system.o)
+ .text.sysTimerInitUs
+                0x0000000000000000       0x9c lib\mega2.X.a(system.o)
+ .text.sysIsTimeoutUs
+                0x0000000000000000       0x4c lib\mega2.X.a(system.o)
+ .text.sysTimerResetUS
+                0x0000000000000000       0x44 lib\mega2.X.a(system.o)
+ .text.sysTimerCheckUs
+                0x0000000000000000       0x8c lib\mega2.X.a(system.o)
+ .text.systemNow
+                0x0000000000000000       0x18 lib\mega2.X.a(system.o)
+ .text.sysSetPeriodS
+                0x0000000000000000       0x34 lib\mega2.X.a(system.o)
+ .text.sysTimerInitS
+                0x0000000000000000       0x7c lib\mega2.X.a(system.o)
+ .text.sysIsTimeoutS
+                0x0000000000000000       0x34 lib\mega2.X.a(system.o)
+ .text.sysTimerResetS
+                0x0000000000000000       0x44 lib\mega2.X.a(system.o)
+ .text.sysTimerCheckS
+                0x0000000000000000       0x7a lib\mega2.X.a(system.o)
+ .text.systemReadHalfSecond
+                0x0000000000000000        0xc lib\mega2.X.a(system.o)
+ .text.__delay_ms
+                0x0000000000000000       0x30 lib\mega2.X.a(system.o)
+ .text.__delay_us
+                0x0000000000000000       0x30 lib\mega2.X.a(system.o)
+ .text          0x0000000000000000        0x0 lib\mega2.X.a(usart.o)
+ .data          0x0000000000000000        0x0 lib\mega2.X.a(usart.o)
+ .bss           0x0000000000000000        0x0 lib\mega2.X.a(usart.o)
+ .text          0x0000000000000000        0x0 lib\mega2.X.a(utility.o)
+ .data          0x0000000000000000        0x0 lib\mega2.X.a(utility.o)
+ .bss           0x0000000000000000        0x0 lib\mega2.X.a(utility.o)
+ .text.u8Decoder
+                0x0000000000000000       0x2a lib\mega2.X.a(utility.o)
+ .text.hex8TOASII
+                0x0000000000000000       0x24 lib\mega2.X.a(utility.o)
+ .text.cpyStringToBuff
+                0x0000000000000000       0x16 lib\mega2.X.a(utility.o)
+ .text.scllormessage
+                0x0000000000000000       0x72 lib\mega2.X.a(utility.o)
+ .text.DecToBcdFun
+                0x0000000000000000       0x14 lib\mega2.X.a(utility.o)
+ .text.BcdToDecFun
+                0x0000000000000000       0x12 lib\mega2.X.a(utility.o)
+ .text.conv2d   0x0000000000000000       0x1a lib\mega2.X.a(utility.o)
+ .text.print2d  0x0000000000000000       0x16 lib\mega2.X.a(utility.o)
+ .text.print3d  0x0000000000000000       0x2e lib\mega2.X.a(utility.o)
+ .text.ResetScollMessage
+                0x0000000000000000        0x6 lib\mega2.X.a(utility.o)
+ .text.u16TOASII
+                0x0000000000000000       0x8c lib\mega2.X.a(utility.o)
+ .text.u8TOASII
+                0x0000000000000000       0x8e lib\mega2.X.a(utility.o)
+ .text.Edit2Digit
+                0x0000000000000000       0x4c lib\mega2.X.a(utility.o)
+ .text.PrintMessage
+                0x0000000000000000       0x4c lib\mega2.X.a(utility.o)
+ .text.arraytoU8
+                0x0000000000000000       0x3c lib\mega2.X.a(utility.o)
+ .text.arraytoU16
+                0x0000000000000000       0x3c lib\mega2.X.a(utility.o)
+ .text.u8ToBCD  0x0000000000000000       0x3e lib\mega2.X.a(utility.o)
+ .text.u16ToBCD
+                0x0000000000000000       0x48 lib\mega2.X.a(utility.o)
+ .text.MatchBufWithValue
+                0x0000000000000000       0x1a lib\mega2.X.a(utility.o)
+ .bss.position  0x0000000000000000        0x1 lib\mega2.X.a(utility.o)
+ .text          0x0000000000000000        0x0 lib\mega2.X.a(mega.o)
+ .data          0x0000000000000000        0x0 lib\mega2.X.a(mega.o)
+ .bss           0x0000000000000000        0x0 lib\mega2.X.a(mega.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x18 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x28 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x28 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000004000 xr
+data             0x0000000000800060 0x0000000000000400 rw !x
+eeprom           0x0000000000810000 0x0000000000000200 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+LOAD build/ATmega16A/production/src/app.o
+LOAD build/ATmega16A/production/src/userSystem.o
+LOAD build/ATmega16A/production/src/configuration.o
+LOAD build/ATmega16A/production/src/network.o
+LOAD build/ATmega16A/production/src/dataTiming.o
+LOAD build/ATmega16A/production/src/Requests.o
+LOAD build/ATmega16A/production/src/PowerOn.o
+LOAD lib\mega2.X.a
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+START GROUP
+LOAD f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a
+LOAD f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+LOAD f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5\libatmega16a.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000004000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000400]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x2990
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.SevenSegmentASCII
+                0x0000000000000054       0x60 lib\mega2.X.a(_7seg.o)
+                0x00000000000000b4                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000b4                __ctors_start = .
+ *(.ctors)
+                0x00000000000000b4                __ctors_end = .
+                0x00000000000000b4                __dtors_start = .
+ *(.dtors)
+                0x00000000000000b4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000b4        0x0 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+                0x00000000000000b4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000b4        0xc C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000c0       0x16 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                0x00000000000000c0                __do_copy_data
+ .init4         0x00000000000000d6       0x10 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000000000000d6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000e6        0x8 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000000ee        0x4 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+                0x00000000000000ee                __vector_12
+                0x00000000000000ee                __bad_interrupt
+                0x00000000000000ee                __vector_3
+                0x00000000000000ee                __vector_17
+                0x00000000000000ee                __vector_7
+                0x00000000000000ee                __vector_5
+                0x00000000000000ee                __vector_4
+                0x00000000000000ee                __vector_9
+                0x00000000000000ee                __vector_2
+                0x00000000000000ee                __vector_15
+                0x00000000000000ee                __vector_8
+                0x00000000000000ee                __vector_14
+                0x00000000000000ee                __vector_10
+                0x00000000000000ee                __vector_16
+                0x00000000000000ee                __vector_18
+                0x00000000000000ee                __vector_20
+                0x00000000000000f2                . = ALIGN (0x2)
+ *(.text.*)
+ .text.appBoot  0x00000000000000f2        0x2 build/ATmega16A/production/src/app.o
+                0x00000000000000f2                appBoot
+ .text.appInit  0x00000000000000f4       0x14 build/ATmega16A/production/src/app.o
+                0x00000000000000f4                appInit
+ .text.appSync  0x0000000000000108        0x2 build/ATmega16A/production/src/app.o
+                0x0000000000000108                appSync
+ .text.appMain  0x000000000000010a       0x14 build/ATmega16A/production/src/app.o
+                0x000000000000010a                appMain
+ .text.setCurrentItem
+                0x000000000000011e       0x3a build/ATmega16A/production/src/userSystem.o
+                0x000000000000011e                setCurrentItem
+ .text.RegisterOnUserSystemState
+                0x0000000000000158       0x1e build/ATmega16A/production/src/userSystem.o
+                0x0000000000000158                RegisterOnUserSystemState
+ .text.getUserStateInConfig
+                0x0000000000000176        0xe build/ATmega16A/production/src/userSystem.o
+                0x0000000000000176                getUserStateInConfig
+ .text.UserInit
+                0x0000000000000184       0x16 build/ATmega16A/production/src/userSystem.o
+                0x0000000000000184                UserInit
+ .text.UserCallBack
+                0x000000000000019a      0x1a0 build/ATmega16A/production/src/userSystem.o
+                0x000000000000019a                UserCallBack
+ .text.OnSaveSerial
+                0x000000000000033a       0x3c build/ATmega16A/production/src/configuration.o
+ .text.OnSaveIp
+                0x0000000000000376       0x1a build/ATmega16A/production/src/configuration.o
+                0x0000000000000376                OnSaveIp
+ .text.getMainView
+                0x0000000000000390        0x8 build/ATmega16A/production/src/configuration.o
+                0x0000000000000390                getMainView
+ .text.ConfigurationInit
+                0x0000000000000398       0x3e build/ATmega16A/production/src/configuration.o
+                0x0000000000000398                ConfigurationInit
+ .text.OnSaveConfiguration
+                0x00000000000003d6       0x18 build/ATmega16A/production/src/configuration.o
+                0x00000000000003d6                OnSaveConfiguration
+ .text.SystemIsSerial
+                0x00000000000003ee       0x1e build/ATmega16A/production/src/configuration.o
+                0x00000000000003ee                SystemIsSerial
+ .text.SystemIp
+                0x000000000000040c        0x6 build/ATmega16A/production/src/configuration.o
+                0x000000000000040c                SystemIp
+ .text.EEpromCallback
+                0x0000000000000412      0x144 build/ATmega16A/production/src/configuration.o
+                0x0000000000000412                EEpromCallback
+ .text.ipIsActive
+                0x0000000000000556       0x28 build/ATmega16A/production/src/configuration.o
+                0x0000000000000556                ipIsActive
+ .text.NetworkHostSystem
+                0x000000000000057e      0x106 build/ATmega16A/production/src/network.o
+ .text.NetworkClientSystem
+                0x0000000000000684       0x3a build/ATmega16A/production/src/network.o
+ .text.NetworkInit
+                0x00000000000006be       0x10 build/ATmega16A/production/src/network.o
+                0x00000000000006be                NetworkInit
+ .text.NetworkdisplayCallBack
+                0x00000000000006ce       0x36 build/ATmega16A/production/src/network.o
+                0x00000000000006ce                NetworkdisplayCallBack
+ .text.DataTimePlay
+                0x0000000000000704       0x62 build/ATmega16A/production/src/dataTiming.o
+                0x0000000000000704                DataTimePlay
+ .text.DataTimeCallBack
+                0x0000000000000766       0xfe build/ATmega16A/production/src/dataTiming.o
+                0x0000000000000766                DataTimeCallBack
+ .text.DataTimeInit
+                0x0000000000000864       0x16 build/ATmega16A/production/src/dataTiming.o
+                0x0000000000000864                DataTimeInit
+ .text.systemIsDateTimeReady
+                0x000000000000087a        0x6 build/ATmega16A/production/src/dataTiming.o
+                0x000000000000087a                systemIsDateTimeReady
+ .text.systemDateTimeStop
+                0x0000000000000880       0x16 build/ATmega16A/production/src/dataTiming.o
+                0x0000000000000880                systemDateTimeStop
+ .text.DisplayGetConfigReq
+                0x0000000000000896       0x40 build/ATmega16A/production/src/Requests.o
+                0x0000000000000896                DisplayGetConfigReq
+ .text.GetIpRequest
+                0x00000000000008d6       0x42 build/ATmega16A/production/src/Requests.o
+                0x00000000000008d6                GetIpRequest
+ .text.ResForConfig
+                0x0000000000000918       0x3e build/ATmega16A/production/src/Requests.o
+                0x0000000000000918                ResForConfig
+ .text.PowerOnInit
+                0x0000000000000956        0x6 build/ATmega16A/production/src/PowerOn.o
+                0x0000000000000956                PowerOnInit
+ .text.PowerOnCallBack
+                0x000000000000095c       0x54 build/ATmega16A/production/src/PowerOn.o
+                0x000000000000095c                PowerOnCallBack
+ .text.PoweronRestart
+                0x00000000000009b0        0x6 build/ATmega16A/production/src/PowerOn.o
+                0x00000000000009b0                PoweronRestart
+ .text.stopPowerOnDisplayConfig
+                0x00000000000009b6        0x8 build/ATmega16A/production/src/PowerOn.o
+                0x00000000000009b6                stopPowerOnDisplayConfig
+ .text._7seg_init
+                0x00000000000009be       0x22 lib\mega2.X.a(_7seg.o)
+                0x00000000000009be                _7seg_init
+ .text.Create_7seg_Display
+                0x00000000000009e0      0x142 lib\mega2.X.a(_7seg.o)
+                0x00000000000009e0                Create_7seg_Display
+ .text._7seg_Display_write_Number
+                0x0000000000000b22       0xda lib\mega2.X.a(_7seg.o)
+                0x0000000000000b22                _7seg_Display_write_Number
+ .text._7seg_Display_write_string
+                0x0000000000000bfc       0xd6 lib\mega2.X.a(_7seg.o)
+                0x0000000000000bfc                _7seg_Display_write_string
+ .text._7seg_scan
+                0x0000000000000cd2      0x25a lib\mega2.X.a(_7seg.o)
+                0x0000000000000cd2                _7seg_scan
+ .text._7seg_write_contanst_Char
+                0x0000000000000f2c       0x28 lib\mega2.X.a(_7seg.o)
+                0x0000000000000f2c                _7seg_write_contanst_Char
+ .text._7seg_clear_display
+                0x0000000000000f54       0x1c lib\mega2.X.a(_7seg.o)
+                0x0000000000000f54                _7seg_clear_display
+ .text.csma_RestTimer
+                0x0000000000000f70        0xe lib\mega2.X.a(csma.o)
+ .text.ResetCurrentFrameSend
+                0x0000000000000f7e       0x36 lib\mega2.X.a(csma.o)
+ .text.defalutStateFun
+                0x0000000000000fb4        0x2 lib\mega2.X.a(csma.o)
+ .text.OnMangemntServerConFiarm
+                0x0000000000000fb6       0x2e lib\mega2.X.a(csma.o)
+ .text.OnMangemntServerFrameRemoveAddress
+                0x0000000000000fe4       0x2c lib\mega2.X.a(csma.o)
+ .text.OnMangemntClientFrameRemoveAddess
+                0x0000000000001010       0x2c lib\mega2.X.a(csma.o)
+ .text.StartTimerWithTime.part.0
+                0x000000000000103c       0x46 lib\mega2.X.a(csma.o)
+ .text.OnSendFrame
+                0x0000000000001082       0x26 lib\mega2.X.a(csma.o)
+ .text.OnMangemntServerFrameAssignAddress
+                0x00000000000010a8       0x7a lib\mega2.X.a(csma.o)
+ .text.OnMangemntClientFrameGetAddress
+                0x0000000000001122       0x4e lib\mega2.X.a(csma.o)
+ .text.commBackOffTime
+                0x0000000000001170       0xcc lib\mega2.X.a(csma.o)
+ .text.sendAck.constprop.10
+                0x000000000000123c       0x4c lib\mega2.X.a(csma.o)
+ .text.ParseWithMangmentFrame
+                0x0000000000001288      0x17c lib\mega2.X.a(csma.o)
+ .text.csmaReTransmitCurrentFrame
+                0x0000000000001404       0x36 lib\mega2.X.a(csma.o)
+ .text.ParseWithDataFrame
+                0x000000000000143a      0x106 lib\mega2.X.a(csma.o)
+ .text.__vector_13
+                0x0000000000001540       0x14 lib\mega2.X.a(csma.o)
+                0x0000000000001540                __vector_13
+ .text.__vector_1
+                0x0000000000001554       0x4e lib\mega2.X.a(csma.o)
+                0x0000000000001554                __vector_1
+ .text.__vector_11
+                0x00000000000015a2      0x132 lib\mega2.X.a(csma.o)
+                0x00000000000015a2                __vector_11
+ .text.csmaloadConfig
+                0x00000000000016d4       0x30 lib\mega2.X.a(csma.o)
+                0x00000000000016d4                csmaloadConfig
+ .text.sendFreeFrame
+                0x0000000000001704       0x28 lib\mega2.X.a(csma.o)
+                0x0000000000001704                sendFreeFrame
+ .text.__vector_6
+                0x000000000000172c      0x29e lib\mega2.X.a(csma.o)
+                0x000000000000172c                __vector_6
+ .text.csmaInit
+                0x00000000000019ca       0xc6 lib\mega2.X.a(csma.o)
+                0x00000000000019ca                csmaInit
+ .text.CsmaRequestNewFrame
+                0x0000000000001a90       0xcc lib\mega2.X.a(csma.o)
+                0x0000000000001a90                CsmaRequestNewFrame
+ .text.csmaDriver
+                0x0000000000001b5c      0x274 lib\mega2.X.a(csma.o)
+                0x0000000000001b5c                csmaDriver
+ .text.csmaGetMaxAddress
+                0x0000000000001dd0        0x6 lib\mega2.X.a(csma.o)
+                0x0000000000001dd0                csmaGetMaxAddress
+ .text.csmaGetStationAddress
+                0x0000000000001dd6        0x6 lib\mega2.X.a(csma.o)
+                0x0000000000001dd6                csmaGetStationAddress
+ .text.OnHostFrameCh0
+                0x0000000000001ddc        0xa lib\mega2.X.a(csma.o)
+                0x0000000000001ddc                OnHostFrameCh0
+ .text.OnClientFrameCh0
+                0x0000000000001de6        0xa lib\mega2.X.a(csma.o)
+                0x0000000000001de6                OnClientFrameCh0
+ .text.putDataCh0
+                0x0000000000001df0       0xe8 lib\mega2.X.a(csma.o)
+                0x0000000000001df0                putDataCh0
+ .text.csmaSaveSerialRegister
+                0x0000000000001ed8        0xa lib\mega2.X.a(csma.o)
+                0x0000000000001ed8                csmaSaveSerialRegister
+ .text.csmaInitStationIp
+                0x0000000000001ee2        0x6 lib\mega2.X.a(csma.o)
+                0x0000000000001ee2                csmaInitStationIp
+ .text.eepromInit
+                0x0000000000001ee8       0x28 lib\mega2.X.a(eeprom.o)
+                0x0000000000001ee8                eepromInit
+ .text.eepromDriver
+                0x0000000000001f10      0x150 lib\mega2.X.a(eeprom.o)
+                0x0000000000001f10                eepromDriver
+ .text.eepromWriteBuf
+                0x0000000000002060       0x40 lib\mega2.X.a(eeprom.o)
+                0x0000000000002060                eepromWriteBuf
+ .text.eepromRequestSterm
+                0x00000000000020a0       0x44 lib\mega2.X.a(eeprom.o)
+                0x00000000000020a0                eepromRequestSterm
+ .text.eepromIsBusy
+                0x00000000000020e4        0xe lib\mega2.X.a(eeprom.o)
+                0x00000000000020e4                eepromIsBusy
+ .text.eepromRead
+                0x00000000000020f2       0x16 lib\mega2.X.a(eeprom.o)
+                0x00000000000020f2                eepromRead
+ .text.__vector_19
+                0x0000000000002108      0x142 lib\mega2.X.a(system.o)
+                0x0000000000002108                __vector_19
+ .text.startHwTimer0
+                0x000000000000224a        0xa lib\mega2.X.a(system.o)
+                0x000000000000224a                startHwTimer0
+ .text.systemInit
+                0x0000000000002254       0x48 lib\mega2.X.a(system.o)
+                0x0000000000002254                systemInit
+ .text.systemMillis
+                0x000000000000229c       0x18 lib\mega2.X.a(system.o)
+                0x000000000000229c                systemMillis
+ .text.sysSetPeriodMS
+                0x00000000000022b4       0x34 lib\mega2.X.a(system.o)
+                0x00000000000022b4                sysSetPeriodMS
+ .text.sysIsTimeoutMs
+                0x00000000000022e8       0x4c lib\mega2.X.a(system.o)
+                0x00000000000022e8                sysIsTimeoutMs
+ .text.setupHwTimer0
+                0x0000000000002334       0x24 lib\mega2.X.a(system.o)
+                0x0000000000002334                setupHwTimer0
+ .text.usart0PutByte
+                0x0000000000002358        0x4 lib\mega2.X.a(usart.o)
+                0x0000000000002358                usart0PutByte
+ .text.usart0GetByte
+                0x000000000000235c        0x4 lib\mega2.X.a(usart.o)
+                0x000000000000235c                usart0GetByte
+ .text.UARTDataFramError0
+                0x0000000000002360       0x10 lib\mega2.X.a(usart.o)
+                0x0000000000002360                UARTDataFramError0
+ .text.usartInit
+                0x0000000000002370       0x10 lib\mega2.X.a(usart.o)
+                0x0000000000002370                usartInit
+ .text.map      0x0000000000002380       0x68 lib\mega2.X.a(utility.o)
+                0x0000000000002380                map
+ .text.power2   0x00000000000023e8       0x18 lib\mega2.X.a(utility.o)
+                0x00000000000023e8                power2
+ .text.Match_2BUF
+                0x0000000000002400       0x1e lib\mega2.X.a(utility.o)
+                0x0000000000002400                Match_2BUF
+ .text.copyBuff
+                0x000000000000241e       0x18 lib\mega2.X.a(utility.o)
+                0x000000000000241e                copyBuff
+ .text.setBuff  0x0000000000002436       0x12 lib\mega2.X.a(utility.o)
+                0x0000000000002436                setBuff
+ .text.u32TOASII
+                0x0000000000002448       0x8a lib\mega2.X.a(utility.o)
+                0x0000000000002448                u32TOASII
+ .text.csmaCRCCheck
+                0x00000000000024d2       0x24 lib\mega2.X.a(utility.o)
+                0x00000000000024d2                csmaCRCCheck
+ .text.startup.main
+                0x00000000000024f6       0x32 lib\mega2.X.a(mega.o)
+                0x00000000000024f6                main
+ .text.libgcc.div
+                0x0000000000002528       0x44 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000000000002528                __udivmodsi4
+ .text.libgcc   0x000000000000256c        0xc f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_tablejump2.o)
+                0x000000000000256c                __tablejump2__
+ .text.libgcc.mul
+                0x0000000000002578       0x1e f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                0x0000000000002578                __umulhisi3
+ .text.libgcc.mul
+                0x0000000000002596       0x16 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+                0x0000000000002596                __muluhisi3
+ .text.libgcc.mul
+                0x00000000000025ac       0x10 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+                0x00000000000025ac                __mulshisi3
+                0x00000000000025b2                __mulohisi3
+ .text.avr-libc
+                0x00000000000025bc      0x24a f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00000000000025bc                malloc
+                0x00000000000026f4                free
+ .text.avr-libc
+                0x0000000000002806      0x148 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+                0x0000000000002806                random_r
+                0x000000000000289e                random
+                0x000000000000293c                srandom
+ .text.libgcc.div
+                0x000000000000294e       0x2e f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+                0x000000000000294e                __divmodsi4
+ .text.libgcc.div
+                0x000000000000297c       0x10 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+                0x000000000000297c                __negsi2
+                0x000000000000298c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000000000000298c        0x0 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                0x000000000000298c                _exit
+                0x000000000000298c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000000000000298c        0x4 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000002990                _etext = .
+
+.data           0x0000000000800060       0x1c load address 0x0000000000002990
+                0x0000000000800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800060        0x6 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x0000000000800060                __malloc_heap_end
+                0x0000000000800062                __malloc_heap_start
+                0x0000000000800064                __malloc_margin
+ .data          0x0000000000800066        0x4 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.EEpromCallback.str1.1
+                0x000000000080006a        0x4 build/ATmega16A/production/src/configuration.o
+ .rodata.pins2  0x000000000080006e        0x6 build/ATmega16A/production/src/configuration.o
+ .rodata.pins1  0x0000000000800074        0x8 build/ATmega16A/production/src/configuration.o
+ *(.gnu.linkonce.r*)
+                0x000000000080007c                . = ALIGN (0x2)
+                0x000000000080007c                _edata = .
+                0x000000000080007c                PROVIDE (__data_end, .)
+
+.bss            0x000000000080007c       0xfa
+                0x000000000080007c                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.item      0x000000000080007c        0x5 build/ATmega16A/production/src/userSystem.o
+ .bss.gu8ToggleState
+                0x0000000000800081        0x1 build/ATmega16A/production/src/userSystem.o
+ .bss.gu8OnPeriodIsDone
+                0x0000000000800082        0x1 build/ATmega16A/production/src/userSystem.o
+ .bss.gu8UserSystem
+                0x0000000000800083        0x1 build/ATmega16A/production/src/userSystem.o
+ .bss.gu8cancelStateIsWrite
+                0x0000000000800084        0x1 build/ATmega16A/production/src/userSystem.o
+ .bss.gsSystemConfig
+                0x0000000000800085       0x11 build/ATmega16A/production/src/configuration.o
+ .bss.gu8WriteState
+                0x0000000000800096        0x1 build/ATmega16A/production/src/configuration.o
+ .bss.gu8IP     0x0000000000800097        0x1 build/ATmega16A/production/src/configuration.o
+ .bss.gu8NetworkDisplayReq
+                0x0000000000800098        0x1 build/ATmega16A/production/src/network.o
+ .bss.gstFrequncy
+                0x0000000000800099        0x4 build/ATmega16A/production/src/dataTiming.o
+ .bss.gu16ExDisplay
+                0x000000000080009d        0x2 build/ATmega16A/production/src/dataTiming.o
+ .bss.gu16MainDisplay
+                0x000000000080009f        0x2 build/ATmega16A/production/src/dataTiming.o
+ .bss.gu8State  0x00000000008000a1        0x1 build/ATmega16A/production/src/dataTiming.o
+ .bss.gu8Duration
+                0x00000000008000a2        0x1 build/ATmega16A/production/src/dataTiming.o
+ .bss.gu16Period
+                0x00000000008000a3        0x4 build/ATmega16A/production/src/dataTiming.o
+ .bss.currentRequest
+                0x00000000008000a7        0x1 build/ATmega16A/production/src/Requests.o
+ .bss.gstPowerOnTimeOutConfig
+                0x00000000008000a8        0x4 build/ATmega16A/production/src/PowerOn.o
+ .bss.gu8PowerOnStateConfig
+                0x00000000008000ac        0x1 build/ATmega16A/production/src/PowerOn.o
+ .bss.cuurent_display
+                0x00000000008000ad        0x2 lib\mega2.X.a(_7seg.o)
+ .bss.gu8DisplayCounter
+                0x00000000008000af        0x1 lib\mega2.X.a(_7seg.o)
+ .bss.gu8MaxDisplayCreated
+                0x00000000008000b0        0x1 lib\mega2.X.a(_7seg.o)
+ .bss.dispay_array
+                0x00000000008000b1        0xc lib\mega2.X.a(_7seg.o)
+ .bss.gsNetWorkFiledRequest
+                0x00000000008000bd        0x4 lib\mega2.X.a(csma.o)
+ .bss.gu8SendAckState
+                0x00000000008000c1        0x1 lib\mega2.X.a(csma.o)
+ .bss.gpFunctionSaveSerial
+                0x00000000008000c2        0x2 lib\mega2.X.a(csma.o)
+ .bss.gu8LoadIp
+                0x00000000008000c4        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8SaveSerialState
+                0x00000000008000c5        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8CurrentTimerRun
+                0x00000000008000c6        0x1 lib\mega2.X.a(csma.o)
+ .bss.guTimeActtivationCode
+                0x00000000008000c7        0x4 lib\mega2.X.a(csma.o)
+ .bss.gu8SystemServer
+                0x00000000008000cb        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8SendStateRequest
+                0x00000000008000cc        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8ReceiverBuffer
+                0x00000000008000cd       0x1d lib\mega2.X.a(csma.o)
+ .bss.gu8ReceivByteCounter
+                0x00000000008000ea        0x1 lib\mega2.X.a(csma.o)
+ .bss.gpFunOnFrameState
+                0x00000000008000eb        0x2 lib\mega2.X.a(csma.o)
+ .bss.gu8TransmittAckBuffer
+                0x00000000008000ed        0x9 lib\mega2.X.a(csma.o)
+ .bss.gu8TransmissionBuffer
+                0x00000000008000f6       0x1d lib\mega2.X.a(csma.o)
+ .bss.guTLastGetAssignAddressCode
+                0x0000000000800113        0x4 lib\mega2.X.a(csma.o)
+ .bss.gu8StationAddress
+                0x0000000000800117        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8NumberOfTry
+                0x0000000000800118        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8NewTransmitState
+                0x0000000000800119        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8CW     0x000000000080011a        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8CoillisonCounter
+                0x000000000080011b        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8MaxTransmitByte
+                0x000000000080011c        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8TransmitByteCounter
+                0x000000000080011d        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8ManagmentSystemState
+                0x000000000080011e        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8CurrentAssignmetAddress
+                0x000000000080011f        0x1 lib\mega2.X.a(csma.o)
+ .bss.gpFunDataRequest
+                0x0000000000800120        0x2 lib\mega2.X.a(csma.o)
+ .bss.gpFunResponseFrame
+                0x0000000000800122        0x2 lib\mega2.X.a(csma.o)
+ .bss.gu8UserSendState
+                0x0000000000800124        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8UserReceiverState
+                0x0000000000800125        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8CsmaUserData
+                0x0000000000800126       0x14 lib\mega2.X.a(csma.o)
+ .bss.gu8len    0x000000000080013a        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8OtherDeviceSA
+                0x000000000080013b        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8OtherDeviceDA
+                0x000000000080013c        0x1 lib\mega2.X.a(csma.o)
+ .bss.gu8eeprom_read_buf
+                0x000000000080013d        0xa lib\mega2.X.a(eeprom.o)
+ .bss.gu8halfSecondEvent
+                0x0000000000800147        0x1 lib\mega2.X.a(system.o)
+ .bss.gu8SecondEventFlag
+                0x0000000000800148        0x1 lib\mega2.X.a(system.o)
+ .bss.gu16SecondEvent
+                0x0000000000800149        0x2 lib\mega2.X.a(system.o)
+ .bss.gu8NumberOFusPerMs
+                0x000000000080014b        0x1 lib\mega2.X.a(system.o)
+ .bss.gu32SystemTime
+                0x000000000080014c        0x4 lib\mega2.X.a(system.o)
+ .bss.gu32TimeMs
+                0x0000000000800150        0x4 lib\mega2.X.a(system.o)
+ .bss.gu32SystemTick
+                0x0000000000800154        0x4 lib\mega2.X.a(system.o)
+ *(COMMON)
+ COMMON         0x0000000000800158        0xe build/ATmega16A/production/src/configuration.o
+                0x0000000000800158                display_main
+                0x000000000080015a                display_extention
+                0x000000000080015c                gstboardInfo
+ COMMON         0x0000000000800166        0xc lib\mega2.X.a(eeprom.o)
+                0x0000000000800166                gpu8data
+                0x0000000000800168                gu16address
+                0x000000000080016a                gu8RW
+                0x000000000080016b                gu8size
+                0x000000000080016c                gstEepromTimeOut
+                0x0000000000800170                gu8DataIndex
+                0x0000000000800171                gu8State
+ COMMON         0x0000000000800172        0x4 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x0000000000800172                __brkval
+                0x0000000000800174                __flp
+                0x0000000000800176                PROVIDE (__bss_end, .)
+                0x0000000000002990                __data_load_start = LOADADDR (.data)
+                0x00000000000029ac                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800176        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800176                _end = .
+                0x0000000000800176                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x30
+ *(.comment)
+ .comment       0x0000000000000000       0x30 build/ATmega16A/production/src/app.o
+                                         0x31 (size before relaxing)
+ .comment       0x0000000000000030       0x31 build/ATmega16A/production/src/userSystem.o
+ .comment       0x0000000000000030       0x31 build/ATmega16A/production/src/configuration.o
+ .comment       0x0000000000000030       0x31 build/ATmega16A/production/src/network.o
+ .comment       0x0000000000000030       0x31 build/ATmega16A/production/src/dataTiming.o
+ .comment       0x0000000000000030       0x31 build/ATmega16A/production/src/Requests.o
+ .comment       0x0000000000000030       0x31 build/ATmega16A/production/src/PowerOn.o
+ .comment       0x0000000000000030       0x31 lib\mega2.X.a(_7seg.o)
+ .comment       0x0000000000000030       0x31 lib\mega2.X.a(csma.o)
+ .comment       0x0000000000000030       0x31 lib\mega2.X.a(eeprom.o)
+ .comment       0x0000000000000030       0x31 lib\mega2.X.a(system.o)
+ .comment       0x0000000000000030       0x31 lib\mega2.X.a(usart.o)
+ .comment       0x0000000000000030       0x31 lib\mega2.X.a(utility.o)
+ .comment       0x0000000000000030       0x31 lib\mega2.X.a(mega.o)
+ .comment       0x0000000000000030       0x31 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .comment       0x0000000000000030       0x31 f:/embbeded system/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x52e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x52e C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+
+.debug_abbrev   0x0000000000000000      0x4e7
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4e7 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+
+.debug_line     0x0000000000000000      0x115
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x115 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x1af
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x1af C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega16a/avr5/crtatmega16a.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/ATmega16A/production/NurseDisplay.X.production.elf elf32-avr)
+LOAD linker stubs
